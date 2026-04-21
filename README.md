@@ -1,3 +1,1 @@
-# Welcome to your Lovable project
-
-TODO: Document your project here
+TechnoCave 2026 official website – showcasing event details, competitions, registrations, and participant information for a national-level computing fest. 🚀
